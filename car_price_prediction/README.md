@@ -97,5 +97,5 @@ Scatter plots were generated to compare *Actual Values* vs *Predicted Values* fo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/car-price-prediction.git
-   cd car-price-prediction
+   git clone https://github.com/ennaguiyoussef/codealpha_tasks.git
+   cd car_price_prediction
